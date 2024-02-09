@@ -1,0 +1,24 @@
+{
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 5432,
+            "driver": "PostgreSQL",
+            "name": "sqlzoo",
+            "database": "sqlzoo",
+            "username": "arkevorkhat",
+            "password": ""
+        },
+        {
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 5432,
+            "driver": "PostgreSQL",
+            "name": "aa_link_shortener",
+            "database": "aa_link_shortener_development",
+            "username": "arkevorkhat",
+            "password": ""
+        }
+    ]
+}
